@@ -1,0 +1,2 @@
+# LLama_sa
+修改transformer库llama模型文件，使用deepspeed的spare_attention进行长序列训练，达到训练加速的目的
